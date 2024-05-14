@@ -1,0 +1,14 @@
+C:\Users\daniel.paula\Documents\Network Grafo\bin\Debug\net8.0\Network Grafo.exe
+C:\Users\daniel.paula\Documents\Network Grafo\bin\Debug\net8.0\Network Grafo.deps.json
+C:\Users\daniel.paula\Documents\Network Grafo\bin\Debug\net8.0\Network Grafo.runtimeconfig.json
+C:\Users\daniel.paula\Documents\Network Grafo\bin\Debug\net8.0\Network Grafo.dll
+C:\Users\daniel.paula\Documents\Network Grafo\bin\Debug\net8.0\Network Grafo.pdb
+C:\Users\daniel.paula\Documents\Network Grafo\obj\Debug\net8.0\Network Grafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.paula\Documents\Network Grafo\obj\Debug\net8.0\Network Grafo.AssemblyInfoInputs.cache
+C:\Users\daniel.paula\Documents\Network Grafo\obj\Debug\net8.0\Network Grafo.AssemblyInfo.cs
+C:\Users\daniel.paula\Documents\Network Grafo\obj\Debug\net8.0\Network Grafo.csproj.CoreCompileInputs.cache
+C:\Users\daniel.paula\Documents\Network Grafo\obj\Debug\net8.0\Network Grafo.dll
+C:\Users\daniel.paula\Documents\Network Grafo\obj\Debug\net8.0\refint\Network Grafo.dll
+C:\Users\daniel.paula\Documents\Network Grafo\obj\Debug\net8.0\Network Grafo.pdb
+C:\Users\daniel.paula\Documents\Network Grafo\obj\Debug\net8.0\Network Grafo.genruntimeconfig.cache
+C:\Users\daniel.paula\Documents\Network Grafo\obj\Debug\net8.0\ref\Network Grafo.dll
